@@ -1,4 +1,4 @@
-<a href="http://gz.technology" target="_blank">![logo](doc/logo.png)</a>
+<a href="http://gz.technology" target="_blank">![logo](./doc/logo.png)</a>
 
 # This project is about exploring and starting off with STM32WL55 nucleo deb board.
 
